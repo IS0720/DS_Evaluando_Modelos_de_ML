@@ -1,1 +1,1 @@
-# DS_Evaluando_Modelos_de_ML
+# Repositorio referente a entrega desafio clase 23 - "Evaluando Modelos de Machine Learning"
